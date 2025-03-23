@@ -1,3 +1,3 @@
-nome: Kauã Rodrigues
-nome: Felipe Santos
-nome: Gustavo Naoto
+nome: Kauã Rodrigues;
+nome: Felipe Santos;
+nome: Gustavo Naoto;
