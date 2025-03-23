@@ -4,8 +4,6 @@ const Produtos =() => {
 
     return(
     <section>
-
-        <h1>Jamal</h1>
       <div style={{ display: 'flex', gap: '16px' }}>
         <div>
           <h3>Jamal</h3>
